@@ -10,40 +10,41 @@
 
 ### 2.1 仓库创建
 
-说明操作、结果和对应截图。![](D:\2026-2027\系统设计与分析\Test\XiTongSheJiYuFenXi-Homework\report\images\1.png)
+说明操作、结果和对应截图。
+![alt text](MarkdownPicture/1.png)
 
 ### 2.2 项目结构与 MkDocs 配置
 
-![](D:\2026-2027\系统设计与分析\Test\XiTongSheJiYuFenXi-Homework\report\images\2.1.png)
+![alt text](MarkdownPicture/2.1.png)
 
-![](D:\2026-2027\系统设计与分析\Test\XiTongSheJiYuFenXi-Homework\report\images\2.2.png)
+![alt text](MarkdownPicture/2.2.png)
 
 ### 2.3 本地构建或预览
 
-![](D:\2026-2027\系统设计与分析\Test\XiTongSheJiYuFenXi-Homework\report\images\3.png)
+![alt text](MarkdownPicture/3.png)
 
 
 
 ### 2.4 Pages 设置
 
-![](D:\2026-2027\系统设计与分析\Test\XiTongSheJiYuFenXi-Homework\report\images\4.png)
+![alt text](MarkdownPicture/4.png)
 
 ### 2.5 Actions 首次构建和部署
 
-![](D:\2026-2027\系统设计与分析\Test\XiTongSheJiYuFenXi-Homework\report\images\5.png)
+![alt text](MarkdownPicture/5.png)
 
 ### 2.6 网站访问与四页导航检查
 
-![](D:\2026-2027\系统设计与分析\Test\XiTongSheJiYuFenXi-Homework\report\images\6.png)
+![alt text](MarkdownPicture/6.png)
 
 ### 2.7 第二次推送与自动更新验证
 
 - 对应提交链接：
 - 对应 Actions 运行链接：[我的技术文档](https://versyf.github.io/XiTongSheJiYuFenXi-Homework/)
 
-![](D:\2026-2027\系统设计与分析\Test\XiTongSheJiYuFenXi-Homework\report\images\7.1.png)
+![alt text](MarkdownPicture/7.1.png)
 
-![](D:\2026-2027\系统设计与分析\Test\XiTongSheJiYuFenXi-Homework\report\images\7.2.png)
+![alt text](MarkdownPicture/7.2.png)
 
 ## 3. 问题与解决
 
