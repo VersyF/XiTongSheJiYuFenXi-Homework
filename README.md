@@ -15,3 +15,5 @@
 **Practice 01**
 
 Pi Agent 安装与基础使用
+
+[个人实验报告](practice/01/README.md)
